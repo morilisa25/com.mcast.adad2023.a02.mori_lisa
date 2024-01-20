@@ -1,0 +1,10 @@
+Links to ChatGPT threads:
+
+https://chat.openai.com/share/57e43436-4219-4d24-af11-e2b14ac0324c
+https://chat.openai.com/share/ba8ed144-adce-458a-9fa2-84559a357fef
+https://chat.openai.com/share/4e860700-cab5-4348-a306-c29f06094084
+https://chat.openai.com/share/b022d9d0-82c4-4b01-88fa-18ac8f585298
+https://chat.openai.com/share/28a4e49f-c9c3-4f80-8256-093f8e01b8d6
+https://chat.openai.com/share/8fa392cc-4528-4a92-b082-580ec70b6930
+
+Please note that I have not used the exact code that ChatGPT gave me
